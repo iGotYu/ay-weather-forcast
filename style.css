@@ -1,0 +1,76 @@
+body {
+    background-color: lightgrey;
+    margin-top: 3%;
+  }
+  
+  .container {
+    background-color: white;
+    margin-top: 2%;
+  }
+  
+  .left-column {
+    border-right: solid 1px black;
+  }
+  
+  .right-column {
+    margin-top: 5px;
+  }
+  
+  h1 {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #userCity {
+    margin: 0 auto;
+    margin-top: 9%;
+    margin-bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* .left-buttons {
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+  } */
+  
+  #searchBtn {
+    width: 35%;
+    margin-right: 5px;
+    margin-bottom: 9%;
+  }
+  
+  #clearBtn {
+    width: 61.99%;
+  }
+  
+  .card-text {
+    text-align: center;
+  }
+  
+  .uv-div {
+    text-align: center;
+  }
+  
+  #future-weather-row {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .city-buttons {
+    width: 100%;
+    padding: 3px;
+    margin-top: 2%;
+  }
+  
+  .card {
+    background-color: lightblue;
+  }
+  
+  .current-weather {
+    background-color: white;
+  }
